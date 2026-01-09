@@ -14,8 +14,7 @@ Then at chapter 2, we will learn the history of Intel 64 and IA-32 Architectures
 ## 2x0 Content
 
 ### 2x1 Bit and Byte Order
-The main things what I think we should remember is the notational conventions. Look at the figure 1-1 below:
-![image 20260105144109](/photos/Pasted image 20260105144109.png)
+The main things what I think we should remember is the notational conventions. Look at the figure 1-1 below:![png](./photos/Pasted image 20260105144109.png)
 
 
 
@@ -48,7 +47,7 @@ For example, `DS:FF79H`, is data segment and adderess of that byte.
 
 ### 2x6 A Syntax for CPUID,CR,MSR Values
 
-![Pasted image 20260105154102](.\photos\Pasted image 20260105154102.png)
+![png](.\photos\Pasted image 20260105154102.png)
 
 
 ## 3x0 The Last
