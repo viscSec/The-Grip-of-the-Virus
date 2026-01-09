@@ -15,7 +15,7 @@ Then at chapter 2, we will learn the history of Intel 64 and IA-32 Architectures
 
 ### 2x1 Bit and Byte Order
 The main things what I think we should remember is the notational conventions. Look at the figure 1-1 below:
-![Pasted image 20260105144109](Step-0.BasicKnow/Part1-Intel SDM/Volume 1/photos/Pasted image 20260105144109.png)
+![image 20260105144109](/photos/Pasted image 20260105144109.png)
 
 
 
