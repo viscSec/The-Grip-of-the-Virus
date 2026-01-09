@@ -15,7 +15,12 @@ Then at chapter 2, we will learn the history of Intel 64 and IA-32 Architectures
 
 ### 2x1 Bit and Byte Order
 The main things what I think we should remember is the notational conventions. Look at the figure 1-1 below:
-![Pasted image 20260105144109](D:\APT\Step-0\Intel64 SDM\photos\Pasted image 20260105144109.png)
+![Pasted image 20260105144109](.\photos\Pasted image 20260105144109.png)
+
+
+
+
+
 This is bit and byte order, address raises from the bottom to the top. Bit raises from the right to the left. Intel 64 and IA-32 processors are "little endian" mechines, so the bytes of a word are numbered starting from the least significant byte.
 
 ### 2x2 Reserved Bits and software compatibility
@@ -43,7 +48,7 @@ For example, `DS:FF79H`, is data segment and adderess of that byte.
 
 ### 2x6 A Syntax for CPUID,CR,MSR Values
 
-![Pasted image 20260105154102](D:\APT\Step-0\Intel64 SDM\photos\Pasted image 20260105154102.png)
+![Pasted image 20260105154102](.\photos\Pasted image 20260105154102.png)
 
 
 ## 3x0 The Last
