@@ -47,7 +47,7 @@ For example, `DS:FF79H`, is data segment and adderess of that byte.
 
 ### 2x6 A Syntax for CPUID,CR,MSR Values
 
-![png](.\photos\Pasted image 20260105154102.png)
+![png](https://github.com/viscSec/The-Grip-of-the-Virus/blob/main/Step-0.BasicKnow/Part1-IntelSDM/Volume-1/photos/20260105154102.png)
 
 
 ## 3x0 The Last
